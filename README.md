@@ -7,4 +7,4 @@ Plogon repo link to copy:
 
 ## Current Plugins
 
-- [Ultrawide Cutscenes](https://github.com/tangenx/Dalamud.FullscreenCutscenes) - updated version of original plugin
+- [Ultrawide Cutscenes Revamp](https://github.com/tangenx/Dalamud.FullscreenCutscenes) - updated version of original plugin
